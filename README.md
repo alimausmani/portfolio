@@ -3,7 +3,7 @@
   <a href="https://portfolio-nine-chi-81.vercel.app/" target="_blank">Alima.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./image/image.jpeg" />
 </div>
 
 <br/>
